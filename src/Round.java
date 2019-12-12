@@ -25,13 +25,13 @@ public class Round {
         this.roundNumber = roundNumber;
     }
 
-    public void outCard(){
+    /*public void outCard(){
         if (usedCard.containsKey("Welcomes")){
             ///ttt
         }else{
             usedCard.put()
         }
-    }
+    }*/
 
 
 
